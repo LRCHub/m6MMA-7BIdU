@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "まちぼうけ",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-11T05:40:58.616442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まちぼうけ ft. Tao",
+      "artist": "なのるなもない",
+      "has_synced": false,
+      "path": "select/01_まちぼうけ_ft._Tao_なのるなもない.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まちぼうけ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_まちぼうけ_ロクデナシ.txt"
+    }
+  ]
+}
